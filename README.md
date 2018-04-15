@@ -1,4 +1,4 @@
-# Proper-VPN-Client
+# Proper-VPN-Client written in VB.NET
 A worked on version of the open source vb.net vpn client VPN Connector. Proper VPN is a free, simple but sleek and fast PPTP vpn client.
 
 
